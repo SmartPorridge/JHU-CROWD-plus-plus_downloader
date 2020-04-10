@@ -16,8 +16,10 @@
 ![image](https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNtxZMbQ5z1DBxZK8icjmgucjmqTaqKqo6wVy7r98mOVK1otibPmclLbJRRWS0O7JxHuQ3nhZ0HYaXQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 <b></b>鉴于单张图像在现实世界中的广泛应用，基于单幅图像的人群计数近年来受到了人们的广泛关注。近年来，学者们已经提出了多种方法来解决在人群计数中遇到的各种问题，这些方法大部分是需要大量标定数据来训练网络参数的卷积神经网络方法。考虑到这一点，我们引入了一个新的大规模无约束人群计数数据集(JHU-GROUP++)，该数据集包含4372张图像，共计151万个注释。
+
 <br><br>与现有的数据集相比，JHU-GROUP++数据集是在各种不同的场景和环境条件下收集的。数据集包括一些基于恶劣天气变化和光照变化的图像，这使得它成为一个非常具有挑战性的数据集。此外，数据集由image-level 和 head-level的丰富注释组成。
 ![image](https://pic4.zhimg.com/80/v2-27de763b5505e38ea154f1fb5e4ee43f_720w.jpg)
+
 <b>与JHU-CROWD数据集相比的改进：</b>
 
 * 图片数量更多：数据集中的图像从4,250增加到4,372；
